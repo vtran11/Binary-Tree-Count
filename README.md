@@ -1,4 +1,4 @@
-# Binary-Tree-Count
+# Binary-Tree-Count (2015)
 Given the recursive nature of a binary tree, a good strategy for writing a C++ function that operates on a binary tree is often first to write a recursive definition of the task. 
 Task:
 a) Computer the height of a tree. 
